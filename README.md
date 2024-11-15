@@ -9,10 +9,15 @@
 - password generator 🔐
 # INSTALLATION ❔
 ```bash
-pkg update && upgrade
+pkg update && pkg upgrade
 pkg install mpv -y
 pkg install git -y
 git clone https://github.com/KCMTEAM/Generator
 cd Generator
 chmod +x *
 ./Play.sh
+```
+## direct
+```bash
+pkg update && pkg upgrade && pkg install mpv -y && pkg install git -y && git clone https://github.com/KCMTEAM/Generator && cd Generator && chmod +x * && ./Play.sh
+```
