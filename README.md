@@ -10,11 +10,23 @@
 # INSTALLATION ❔
 ```bash
 pkg update && pkg upgrade
+```
+```bash
 pkg install mpv -y
+```
+```bash
 pkg install git -y
+```
+```bash
 git clone https://github.com/KCMTEAM/Generator
+```
+```bash
 cd Generator
+```
+```bash
 chmod +x *
+```
+```bash
 ./Play.sh
 ```
 ## direct
